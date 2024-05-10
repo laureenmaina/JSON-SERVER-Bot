@@ -4,7 +4,7 @@
 * Create a folder
 ```
 
-mkdir <projectname>-mock-api
+mkdir <botdatabase>-mock-api
 cd <projectname>-mock-api
 ```
 
