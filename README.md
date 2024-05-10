@@ -3,6 +3,7 @@
 #### Prerequisite
 * Create a folder
 ```
+
 mkdir <projectname>-mock-api
 cd <projectname>-mock-api
 ```
@@ -11,6 +12,7 @@ cd <projectname>-mock-api
 ```
 npm init -y
 ```
+
 
 #### Step 2: Install json server dependency
 ```
